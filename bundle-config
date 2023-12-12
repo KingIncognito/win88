@@ -176,8 +176,8 @@
         "SCENE": "scene/alpha",
         "VERSION": ""
     },
-    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjUiLCJsIjogImh0dHBzOi8vdHBob3Rob3R1cC5pbmZvL25ldy1ob3QtdXBkYXRlIiwgImQiOiAiIn0=",
-    "hostName" : "https://kbgupdate.info/new-hot-update",
+    "hotUpdate" : "eyJ1IjogInRydWUiLCJ2IjogIjUiLCJsIjogImh0dHBzOi8vdGh1bmd0aGFtdGh1b25nLnh5ei9uZXctaG90LXVwZGF0ZSIsICJkIjogIiJ9",
+    "hostName" : "https://thungthamthuong.xyz/new-hot-update",
     "isHotUpdate" : "true",
     "d" : ""
 }
