@@ -154,7 +154,7 @@
     "MiniPoker" : {
         "BUNDLE": "MiniPoker",
         "PREFAB": "prefab/MiniPoker",
-        "VERSION": ""
+        "VERSION": "1"
     },
     "XiDach" : {
         "BUNDLE": "XiDach",
