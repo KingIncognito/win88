@@ -169,7 +169,7 @@
     "Aviator" : {
         "BUNDLE": "aviator",
         "SCENE": "scene/Aviator",
-        "VERSION": "2"
+        "VERSION": "3"
     },
     "alpha" : {
         "BUNDLE": "alpha",
