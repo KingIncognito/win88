@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "7"
+        "VERSION": "8"
     },
     "POPUP_LOBBY" : {
         "BUNDLE":"PopupLobby",
@@ -144,7 +144,7 @@
     "TaiXiuDouble" : {
         "BUNDLE": "TaiXiu",
         "PREFAB": "prefab/TaiXiu",
-        "VERSION": "104"
+        "VERSION": "105"
     },
     "taixiuMd5" : {
         "BUNDLE": "taixiuMd5",
