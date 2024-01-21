@@ -19,7 +19,7 @@
     "LOBBY" : {
         "BUNDLE":"Lobby",
         "SCENE": "scene/Lobby",
-        "VERSION": "10"
+        "VERSION": "11"
     },
     "POPUP_LOBBY" : {
         "BUNDLE":"PopupLobby",
